@@ -1,0 +1,9 @@
+D:\AI Classification Projects\Medicine Medical Recommendation AI Doctor/
+│
+├── .streamlit/
+│   └── config.toml
+│
+├── DoctorWebApp.py.py
+
+[theme]
+base="dark"
