@@ -1,9 +1,9 @@
-D:\AI Classification Projects\Medicine Medical Recommendation AI Doctor/
+DoctorAIWebApp/
 │
-├── .streamlit/
-│   └── config.toml
-│
-├── DoctorWebApp.py.py
+├── config.toml            # Your config file
+├── doctor_icon.ico         # Icon file uploaded to the repository
+├── DoctorWebApp.py         # Your app file
+
 
 [theme]
 base="dark"
